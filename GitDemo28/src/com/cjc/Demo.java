@@ -22,6 +22,7 @@ public class Demo
         public void m4()
 	{
 		System.out.println("Hello M4");
+		System.out.println("Hello M");
 	}
 
 	
