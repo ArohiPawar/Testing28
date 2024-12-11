@@ -25,7 +25,11 @@ public class Demo
 		System.out.println("Hello M");
 	}
 
+	 public void m5()
+	{
+		System.out.println("Hello M5");
 	
+	}
 public static void main(String[] args) {
 	System.out.println("This is Demo Main");
 }
